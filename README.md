@@ -43,16 +43,8 @@ streamlit run app.py
 - **All processing happens in your browser for maximum security.**
 - **Uses standard security guidelines to ensure best practices.**
 
-## 🤝 Contributing
-Feel free to contribute! Fork the repository, create a new branch, and submit a PR.
-
-## 📜 License
-This project is licensed under the **MIT License**.
-
 ## 📬 Contact
 For questions or support, reach out via:
-- **Email:** your-email@example.com
-- **GitHub Issues:** [Open an Issue](https://github.com/your-repo/password-strength-meter/issues)
+- **Email:** hareemfarooqi2134@gmail.com
 
 🚀 **Stay secure & create stronger passwords!** 🔐
-
