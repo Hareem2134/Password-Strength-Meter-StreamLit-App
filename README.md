@@ -59,7 +59,7 @@ streamlit run app.py
 
 ## 📬 Contact
 For queries, connect with me on **LinkedIn** or reach out via **Email:**:  
-- 🔗 [Hareem Farooqi](https://www.linkedin.com/in/hareemfarooqi/)  
+- **LinkedIn** 🔗 [Hareem Farooqi](https://www.linkedin.com/in/hareemfarooqi/)  
 - **Email:** hareemfarooqi2134@gmail.com
 
 🚀 **Stay secure & create stronger passwords!** 🔐
