@@ -27,8 +27,8 @@ pip install streamlit
 
 ### **2️⃣ Clone or Download the Repository**
 ```sh
-git clone https://github.com/your-repo/password-strength-meter.git
-cd password-strength-meter
+git clone https://github.com/Hareem2134/Password-Strength-Meter-StreamLit-App
+cd password-strength-meter-streamlit-app
 ```
 
 ---
